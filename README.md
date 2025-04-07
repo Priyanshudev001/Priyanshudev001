@@ -9,13 +9,8 @@
 ---
 
 ### 📌 About Me
-
-- 🎓 I'm currently pursuing **Bachelor's in Information Technology (2nd Year)**  
 - 🧑‍💻 Passionate about **Mobile App Development using Flutter**  
 - 🚀 Exploring **Dart, Node.js, Firebase, REST APIs, Supabase**, and modern app architectures  
-- 📱 Currently building a **Restaurant Management System** in Flutter + Node.js + SQL  
-- 📹 Starting my **YouTube Channel** on Flutter, Dart, and Backend Development  
-- 💬 Ask me about anything Flutter, Dart, Supabase, or Node.js-related  
 - 📫 How to reach me: **sanjaydeo099@gmail.com**  
 - 🌍 Based in: **Dharan, Nepal**
 
