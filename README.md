@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Flutter Developer from Nepal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9EE0&center=true&vCenter=true&width=435&lines=Flutter+%F0%9F%93%B1+%7C+Dart+%7C+Node.js+%7C+Full+Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9EE0&center=true&vCenter=true&width=435&lines=Flutter+%7C+Dart+%7C+Node.js+%7C+Full+Stack+Dev" alt="Typing SVG" />
 </p>
 
 ---
