@@ -35,15 +35,15 @@ Tools: Android Studio, Visual Studio Code, Git, Postman
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshudev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshudev001&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshudev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshudev001&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshudev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshudev001&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -51,7 +51,7 @@ Tools: Android Studio, Visual Studio Code, Git, Postman
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshudev&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyanshudev001&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -59,9 +59,12 @@ Tools: Android Studio, Visual Studio Code, Git, Postman
 ### 👁‍🗨 Profile Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshudev&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-  <img src="https://badges.pufler.dev/commits/monthly/priyanshudev" alt="Monthly Commits" />
-  <img src="https://img.shields.io/github/followers/priyanshudev?label=Followers&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Priyanshudev001&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Priyanshudev001?label=Followers&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshudev001&theme=tokyonight" />
 </p>
 
 ---
